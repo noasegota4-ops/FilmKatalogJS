@@ -3,17 +3,7 @@
 Fakultetski projekt izrađen u HTML-u, CSS-u i običnom JavaScriptu, bez frameworka.
 Katalog sadrži 33 filma s lokalno spremljenim posterima.
 
-## Pokretanje
 
-U mapi projekta pokreni lokalni web poslužitelj:
-
-```sh
-python -m http.server 8000
-```
-
-Zatim otvori http://localhost:8000 u pregledniku. Možeš koristiti i VS Code Live Server.
-Stranicu treba otvoriti preko poslužitelja jer `fetch` i JavaScript moduli ne rade
-pravilno pri otvaranju HTML datoteke dvoklikom (`file://`).
 
 ## Organizacija JavaScripta
 
@@ -59,14 +49,3 @@ i `aria-current` za aktivnu stranicu. Escape zatvara mobilni izbornik.
 Stranice imaju skip link, vidljiv fokus, tekstualne opise slika i oznake polja.
 Kontakt forma koristi HTML ograničenja `required`, `minlength` i `type="email"`,
 uz dodatne JavaScript provjere i poruke.
-
-## Objava na Netlifyju
-
-Projekt je statička stranica i ne zahtijeva build naredbu ni instalaciju paketa.
-Datoteka `netlify.toml` postavlja objavu iz korijena projekta.
-Za objavu poveži GitHub repozitorij s Netlifyjem ili učitaj mapu stranice ručno.
-Korijen objave treba sadržavati `index.html`, ostale HTML datoteke, CSS,
-JavaScript module, `filmovi.json` i mapu `slike`.
-Ako je FilmKatalog podmapa repozitorija, postavi tu podmapu kao osnovnu mapu projekta.
-Nakon objave provjeri sve četiri stranice, favorite i učitavanje JSON podataka.
-Poveznicu na objavljenu stranicu dodaj ovdje nakon uspješne objave.
