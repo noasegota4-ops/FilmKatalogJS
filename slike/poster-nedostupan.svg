@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="270" viewBox="0 0 180 270">
+  <rect width="180" height="270" fill="#1e293b"/>
+  <rect x="59" y="81" width="62" height="70" rx="5" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M70 82v69m40-69v69M59 98h11m-11 18h11m-11 18h11m40-36h11m-11 18h11m-11 18h11" stroke="#94a3b8" stroke-width="3"/>
+  <text x="90" y="181" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="13">Poster nije dostupan</text>
+</svg>

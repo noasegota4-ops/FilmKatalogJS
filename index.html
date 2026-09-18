@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini katalog filmova</title>
+  <meta name="description" content="Mini katalog popularnih filmova">
+  <meta property="og:title" content="Mini katalog filmova">
+  <meta property="og:description" content="Pregled filmova">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="stil.css">
+</head>
+<body>
+
+<a href="#main" class="skip-link">Preskoči sadržaj</a>
+
+<header>
+  <nav>
+    <h1>FilmKatalog</h1>
+
+    <button type="button" id="menu-toggle" class="hamburger" aria-label="Izbornik" aria-expanded="false" aria-controls="main-menu">&#9776;</button>
+
+    <ul id="main-menu">
+      <li><a href="index.html" class="active" aria-current="page">Home</a></li>
+      <li><a href="katalog.html">Katalog</a></li>
+      <li><a href="about.html">O nama</a></li>
+      <li><a href="kontakt.html">Kontakt</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main" tabindex="-1">
+
+  
+  <section>
+    <h2>Dobrodošli u FilmKatalog 🎬</h2>
+    <p>Pronađi najbolje filmove na jednom mjestu – od akcije do drame.</p>
+    <a href="katalog.html">Pregledaj katalog</a>
+  </section>
+
+  
+  <section>
+    <h2>Izdvojeni filmovi</h2>
+
+    <div class="grid">
+      <div class="card">
+        <span class="badge">Sci-Fi</span>
+        <img src="slike/interstellar.jpg" width="180" height="270" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='slike/poster-nedostupan.svg'" alt="Interstellar film">
+        <h3>Interstellar</h3>
+        
+      </div>
+
+      <div class="card">
+        <span class="badge">Action</span>
+        <img src="slike/avengers.jpg" width="180" height="270" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='slike/poster-nedostupan.svg'" alt="Avengers film">
+        <h3>Avengers</h3>
+        
+      </div>
+
+      <div class="card">
+        <span class="badge">Drama</span>
+        <img src="slike/titanic.jpg" width="180" height="270" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='slike/poster-nedostupan.svg'" alt="Titanic film">
+        <h3>Titanic</h3>
+        
+      </div>
+    </div>
+  </section>
+
+  
+    <section>
+    <h2>Zašto koristiti naš katalog?</h2>
+
+    <div class="feature-grid">
+
+      <div class="feature-card">
+        <h3>🎯 Veliki izbor</h3>
+        <p>Pronađi filmove svih žanrova na jednom mjestu.</p>
+      </div>
+
+      <div class="feature-card">
+        <h3>👌 Jednostavno korištenje</h3>
+        <p>Brzo pregledavanje i jasan, moderan dizajn.</p>
+      </div>
+
+      <div class="feature-card">
+        <h3>🔄 Redovito ažuriranje</h3>
+        <p>Dodajemo nove filmove i sadržaj stalno.</p>
+      </div>
+
+    </div>
+  </section>
+
+  
+  <section>
+    <h2>Spreman za gledanje?</h2>
+    <p>Istraži naš katalog i pronađi svoj sljedeći film.</p>
+    <a href="katalog.html">Idi na katalog</a>
+  </section>
+
+</main>
+
+<footer>
+  <p>© 2026 FilmKatalog</p>
+</footer>
+
+<script type="module" src="navigacija.js"></script>
+</body>
+</html>

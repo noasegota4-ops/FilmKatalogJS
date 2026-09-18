@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "naziv": "Inception",
+    "zanr": "Sci-Fi",
+    "godina": 2010,
+    "slika": "slike/inception.jpg"
+  },
+  {
+    "id": 2,
+    "naziv": "Interstellar",
+    "zanr": "Sci-Fi",
+    "godina": 2014,
+    "slika": "slike/interstellar.jpg"
+  },
+  {
+    "id": 3,
+    "naziv": "The Dark Knight",
+    "zanr": "Action",
+    "godina": 2008,
+    "slika": "slike/the-dark-knight.jpg"
+  },
+  {
+    "id": 4,
+    "naziv": "Avengers",
+    "zanr": "Action",
+    "godina": 2012,
+    "slika": "slike/avengers.jpg"
+  },
+  {
+    "id": 5,
+    "naziv": "Titanic",
+    "zanr": "Drama",
+    "godina": 1997,
+    "slika": "slike/titanic.jpg"
+  },
+  {
+    "id": 6,
+    "naziv": "Matrix",
+    "zanr": "Sci-Fi",
+    "godina": 1999,
+    "slika": "slike/matrix.jpg"
+  },
+  {
+    "id": 7,
+    "naziv": "Gladiator",
+    "zanr": "Drama",
+    "godina": 2000,
+    "slika": "slike/gladiator.jpg"
+  },
+  {
+    "id": 8,
+    "naziv": "Joker",
+    "zanr": "Drama",
+    "godina": 2019,
+    "slika": "slike/joker.jpg"
+  },
+  {
+    "id": 9,
+    "naziv": "Avatar",
+    "zanr": "Fantasy",
+    "godina": 2009,
+    "slika": "slike/avatar.jpg"
+  },
+  {
+    "id": 10,
+    "naziv": "Frozen",
+    "zanr": "Animation",
+    "godina": 2013,
+    "slika": "slike/frozen.jpg"
+  },
+  {
+    "id": 11,
+    "naziv": "The Shawshank Redemption",
+    "zanr": "Drama",
+    "godina": 1994,
+    "slika": "slike/shawshank-redemption.jpg"
+  },
+  {
+    "id": 12,
+    "naziv": "The Godfather",
+    "zanr": "Drama",
+    "godina": 1972,
+    "slika": "slike/godfather.jpg"
+  },
+  {
+    "id": 13,
+    "naziv": "Forrest Gump",
+    "zanr": "Drama",
+    "godina": 1994,
+    "slika": "slike/forrest-gump.jpg"
+  },
+  {
+    "id": 14,
+    "naziv": "Fight Club",
+    "zanr": "Drama",
+    "godina": 1999,
+    "slika": "slike/fight-club.jpg"
+  },
+  {
+    "id": 15,
+    "naziv": "Pulp Fiction",
+    "zanr": "Drama",
+    "godina": 1994,
+    "slika": "slike/pulp-fiction.jpg"
+  },
+  {
+    "id": 16,
+    "naziv": "The Lord of the Rings: The Fellowship of the Ring",
+    "zanr": "Fantasy",
+    "godina": 2001,
+    "slika": "slike/lotr-fellowship.jpg"
+  },
+  {
+    "id": 17,
+    "naziv": "The Lord of the Rings: The Two Towers",
+    "zanr": "Fantasy",
+    "godina": 2002,
+    "slika": "slike/lotr-two-towers.jpg"
+  },
+  {
+    "id": 18,
+    "naziv": "The Lord of the Rings: The Return of the King",
+    "zanr": "Fantasy",
+    "godina": 2003,
+    "slika": "slike/lotr-return-king.jpg"
+  },
+  {
+    "id": 19,
+    "naziv": "Harry Potter and the Philosopher's Stone",
+    "zanr": "Fantasy",
+    "godina": 2001,
+    "slika": "slike/harry-potter.jpg"
+  },
+  {
+    "id": 20,
+    "naziv": "Jurassic Park",
+    "zanr": "Sci-Fi",
+    "godina": 1993,
+    "slika": "slike/jurassic-park.jpg"
+  },
+  {
+    "id": 21,
+    "naziv": "Back to the Future",
+    "zanr": "Sci-Fi",
+    "godina": 1985,
+    "slika": "slike/back-to-the-future.jpg"
+  },
+  {
+    "id": 22,
+    "naziv": "Star Wars",
+    "zanr": "Sci-Fi",
+    "godina": 1977,
+    "slika": "slike/star-wars.jpg"
+  },
+  {
+    "id": 23,
+    "naziv": "The Lion King",
+    "zanr": "Animation",
+    "godina": 1994,
+    "slika": "slike/lion-king.jpg"
+  },
+  {
+    "id": 24,
+    "naziv": "Toy Story",
+    "zanr": "Animation",
+    "godina": 1995,
+    "slika": "slike/toy-story.jpg"
+  },
+  {
+    "id": 25,
+    "naziv": "Finding Nemo",
+    "zanr": "Animation",
+    "godina": 2003,
+    "slika": "slike/finding-nemo.jpg"
+  },
+  {
+    "id": 26,
+    "naziv": "WALL-E",
+    "zanr": "Animation",
+    "godina": 2008,
+    "slika": "slike/wall-e.jpg"
+  },
+  {
+    "id": 27,
+    "naziv": "Up",
+    "zanr": "Animation",
+    "godina": 2009,
+    "slika": "slike/up.jpg"
+  },
+  {
+    "id": 28,
+    "naziv": "Coco",
+    "zanr": "Animation",
+    "godina": 2017,
+    "slika": "slike/coco.jpg"
+  },
+  {
+    "id": 29,
+    "naziv": "Inside Out",
+    "zanr": "Animation",
+    "godina": 2015,
+    "slika": "slike/inside-out.jpg"
+  },
+  {
+    "id": 30,
+    "naziv": "Ratatouille",
+    "zanr": "Animation",
+    "godina": 2007,
+    "slika": "slike/ratatouille.jpg"
+  },
+  {
+    "id": 31,
+    "naziv": "The Incredibles",
+    "zanr": "Animation",
+    "godina": 2004,
+    "slika": "slike/incredibles.jpg"
+  },
+  {
+    "id": 32,
+    "naziv": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "zanr": "Action",
+    "godina": 2003,
+    "slika": "slike/pirates-caribbean.jpg"
+  },
+  {
+    "id": 33,
+    "naziv": "The Dark Knight Rises",
+    "zanr": "Action",
+    "godina": 2012,
+    "slika": "slike/dark-knight-rises.jpg"
+  }
+]
