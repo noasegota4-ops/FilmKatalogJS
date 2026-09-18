@@ -1,22 +1,9 @@
 # FilmKatalog
 
-Fakultetski projekt izrađen u HTML-u, CSS-u i običnom JavaScriptu, bez frameworka.
+Projekt izrađen u HTML-u, CSS-u i običnom JavaScriptu.
 Katalog sadrži 33 filma s lokalno spremljenim posterima.
 
 
-
-## Organizacija JavaScripta
-
-- `data.js`: učitava `filmovi.json` preko `fetch` i čita/sprema favorite u `localStorage`.
-- `state.js`: čuva filmove, pretragu, žanr, favorite, stanje učitavanja i grešku;
-  sadrži logiku filtriranja i promjene favorita.
-- `ui.js`: izrađuje kartice i prikazuje poruke korisniku.
-- `main.js`: povezuje module, obrađuje događaje i pokreće katalog.
-- `kontakt.js`: obrađuje kontakt formu, validira unos i prikazuje poruke bez reloada.
-- `navigacija.js`: otvara mobilni izbornik i zatvara ga tipkom Escape.
-
-Skripte se uključuju s `type="module"`, a moduli koriste `import` i `export`.
-Primjer toka: unos u pretragu → promjena stanja → filtriranje podataka → prikaz kartica.
 
 ## Funkcionalnosti
 
